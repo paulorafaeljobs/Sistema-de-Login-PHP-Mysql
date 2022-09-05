@@ -1,0 +1,6 @@
+*{font-family: 'Montserrat', sans-serif;padding:0;margin:0;}
+.conteiner{width: 300px;margin: auto;}
+.pass {margin-top: 10px;}
+.conteiner > form > div > input {width: 92%;padding: 10px;border: none;outline: 0;}
+.btn {width:300px;padding: 10px;margin-top: 11px;border: none;background-color:#41cac0;}
+h1{margin-bottom: 10px;}
